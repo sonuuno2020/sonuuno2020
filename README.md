@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @sonuuno2020
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning various concepts of ML and DL.
--  Proeficient in Python and SQL.
+- 🤖 Proeficient in Python and SQL.
 - 📫 How to reach me :
 - email: sonuuno17@gmail.com
 
